@@ -1,11 +1,16 @@
 _repo: Le-Marechal-de-Richelieu_64232
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64232-h/images/cover.jpg
 creator:
   author:
     agent_name: d'Estrée, Paul
     gutenberg_agent_id: '52807'
     url: http://www.gutenberg.org/2009/agents/52807
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64232#Le-Marechal-de-Richelieu
 gutenberg_issued: '2021-01-07'
 gutenberg_type: Text
 identifiers:
